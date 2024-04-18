@@ -1,0 +1,13 @@
+C:\Users\perry\source\repos\trimLight2\trimLight2\bin\Debug\trimLight2.exe.config
+C:\Users\perry\source\repos\trimLight2\trimLight2\bin\Debug\trimLight2.exe
+C:\Users\perry\source\repos\trimLight2\trimLight2\bin\Debug\trimLight2.pdb
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.csproj.AssemblyReference.cache
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.Properties.Resources.resources
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.csproj.GenerateResource.cache
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.csproj.CoreCompileInputs.cache
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.exe
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.pdb
+C:\Users\perry\source\repos\trimLight2\trimLight2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\perry\source\repos\trimLight2\trimLight2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.csproj.CopyComplete
+C:\Users\perry\source\repos\trimLight2\trimLight2\obj\Debug\trimLight2.Form1.resources
